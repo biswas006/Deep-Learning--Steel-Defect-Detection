@@ -48,6 +48,9 @@ Once you access the web app in your web browser, you will see a sidebar with inp
 
 After providing the input values, the app will use a machine learning model (Random Forest Classifier) trained on the dataset to make a prediction. It will display whether the person is likely to have diabetes or not based on the input attributes. 
 
+### Screenshot of the Web App
+![Web App Screenshot](https://github.com/biswas006/Diabetes-Prediction-ML-App/assets/54642211/663068aa-2c0b-4516-98c3-02a2778a9a1c)
+
 ## Development
 If you want to modify or enhance the web app, you can make changes to the `diabetes_prediction_app.py` file. The file contains the Streamlit code for the web app, including the user interface and the machine learning model.
 
