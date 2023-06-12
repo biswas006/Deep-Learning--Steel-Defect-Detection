@@ -8,7 +8,7 @@ The web app allows users to input various medical attributes such as the number 
 The dataset used for training the model is the "Diabetes Dataset" available on Kaggle. You can find the dataset [here](https://www.kaggle.com/datasets/mathchi/diabetes-data-set). It consists of several features related to diabetes, such as pregnancies, glucose concentration, blood pressure, skin thickness, insulin level, BMI, diabetes pedigree function, and age. The dataset also includes an "Outcome" column indicating whether the person has diabetes (1) or not (0).
 
 ## Model
-This app is built on SVM classifier- the best performing among all considered models.
+This app is built on SVM classifier- the best performing among all considered models for the given dataset. The prediction accuracy was clocked at 78% on the test data.
 
 ## Installation
 To run the Diabetes Prediction Web App locally, follow these steps:
