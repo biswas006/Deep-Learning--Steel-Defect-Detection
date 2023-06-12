@@ -13,6 +13,12 @@ This app is built on SVM classifier- the best performing among all considered mo
 ## Installation
 To run the Diabetes Prediction Web App locally, follow these steps:
 
+## Medical Feature Significance 
+Significance of features highlighted by the model (in decreasing order)
+![alt text]([https://github.com/biswas006/Diabetes-Prediction-ML-App/Significance of  features in the model (in decreasing order).png])
+
+
+
 1. Clone the repository:
    ```
    git clone https://github.com/biswas006/Diabetes-Prediction-ML-App
