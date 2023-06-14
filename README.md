@@ -46,7 +46,7 @@ Significance of features highlighted by the model (in decreasing order)
 ## Usage
 Once you access the web app in your web browser, you will see a sidebar with input sliders for various medical attributes. Adjust the sliders to input the corresponding values for each attribute.
 
-After providing the input values, the app will use a machine learning model (Random Forest Classifier) trained on the dataset to make a prediction. It will display whether the person is likely to have diabetes or not based on the input attributes. 
+After providing the input values, the app will use a machine learning model (SVM Classifier) trained on the dataset to make a prediction. It will display whether the person is likely to have diabetes or not based on the input attributes. 
 
 ### Screenshot of the Web App
 ![Web App Screenshot](https://github.com/biswas006/Diabetes-Prediction-ML-App/assets/54642211/663068aa-2c0b-4516-98c3-02a2778a9a1c)
