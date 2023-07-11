@@ -10,38 +10,9 @@ The dataset used for training the model is the "Diabetes Dataset" available on K
 ## Model
 This app is built on SVM classifier- the best performing among all considered models for the given dataset. The prediction accuracy was clocked at 78% on the test data.
 
-## Installation
-To run the Diabetes Prediction Web App locally, follow these steps:
-
 ## Medical Feature Significance 
 Significance of features highlighted by the model (in decreasing order)
 ![Significance of  features in the model (in decreasing order)](https://github.com/biswas006/Diabetes-Prediction-ML-App/assets/54642211/c79c597e-6ffa-4947-8b1f-b589dfaacad8)
-
-
-
-1. Clone the repository:
-   ```
-   git clone https://github.com/biswas006/Diabetes-Prediction-ML-App
-   ```
-   
-2. Navigate to the project directory:
-   ```
-   cd diabetes-prediction-ML-app
-   ```
-
-3. Install the required dependencies:
-   ```
-   pip install -r requirements.txt
-   ```
-
-4. Download the Diabetes dataset from the Kaggle link mentioned above and save it in the project directory.
-
-5. Run the Streamlit app:
-   ```
-   streamlit run diabetes_prediction_ML_app.py
-   ```
-
-6. The app will be running locally, and you can access it in your web browser at `http://localhost:8501`.
 
 ## Usage
 Once you access the web app in your web browser, you will see a sidebar with input sliders for various medical attributes. Adjust the sliders to input the corresponding values for each attribute.
@@ -50,11 +21,6 @@ After providing the input values, the app will use a machine learning model (SVM
 
 ### Screenshot of the Web App
 ![Web App Screenshot](https://github.com/biswas006/Diabetes-Prediction-ML-App/assets/54642211/663068aa-2c0b-4516-98c3-02a2778a9a1c)
-
-## Development
-If you want to modify or enhance the web app, you can make changes to the `diabetes_prediction_app.py` file. The file contains the Streamlit code for the web app, including the user interface and the machine learning model.
-
-You can explore different machine learning models, add more features, or improve the user interface based on your requirements.
 
 ## Contributing
 Contributions to this project are welcome. If you find any issues or want to add new features, feel free to open an issue or submit a pull request.
@@ -67,7 +33,6 @@ Contributions to this project are welcome. If you find any issues or want to add
 If you have any questions or suggestions regarding this project, please feel free to reach out to me.
 
 - Email: biswas.tech21@gmail.com
-- Website: [biswaskumartech](https://www.biswaskumartech.com/)
 
 
 
