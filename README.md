@@ -1,14 +1,14 @@
 # Diabetes-Prediction-ML-App
 
-This is a web application built in Python using Streamlit that predicts whether a person has diabetes or not based on their medical attributes. It utilizes the Diabetes dataset obtained from Kaggle.
+This web application built in Python using Streamlit predicts whether a person has diabetes or not based on their medical attributes. It utilizes the Diabetes dataset obtained from Kaggle.
 
-The web app allows users to input various medical attributes such as the number of pregnancies, plasma glucose concentration, blood pressure, skin thickness, insulin level, BMI, diabetes pedigree function, and age. Based on these inputs, the machine learning model predicts whether the person is likely to have diabetes or not.
+The [Web App] (https://biswas006-diabetes-prediction-diabetes-prediction-webapp-tb9jub.streamlit.app/?embed=true" frameborder="0" allowFullScreen="true") allows users to input various medical attributes such as the number of pregnancies, plasma glucose concentration, blood pressure, skin thickness, insulin level, BMI, diabetes pedigree function, and age. Based on these inputs, the machine learning model predicts whether the person is likely to have diabetes or not.
 
 ## Dataset
 The dataset used for training the model is the "Diabetes Dataset" available on Kaggle. You can find the dataset [here](https://www.kaggle.com/datasets/mathchi/diabetes-data-set). It consists of several features related to diabetes, such as pregnancies, glucose concentration, blood pressure, skin thickness, insulin level, BMI, diabetes pedigree function, and age. The dataset also includes an "Outcome" column indicating whether the person has diabetes (1) or not (0).
 
 ## Model
-This app is built on SVM classifier- the best performing among all considered models for the given dataset. The prediction accuracy was clocked at 78% on the test data.
+This app is built with an SVM classifier- the best performing among all considered models for the given dataset. The prediction accuracy was clocked at 78% on the test data.
 
 ## Medical Feature Significance 
 Significance of features highlighted by the model (in decreasing order)
@@ -33,6 +33,6 @@ Contributions to this project are welcome. If you find any issues or want to add
 If you have any questions or suggestions regarding this project, please feel free to reach out to me.
 
 - Email: biswas.tech21@gmail.com
-
+- [Web App] (https://biswas006-diabetes-prediction-diabetes-prediction-webapp-tb9jub.streamlit.app/?embed=true" frameborder="0" allowFullScreen="true").
 
 
